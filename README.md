@@ -15,7 +15,7 @@ Git — распределённая система контроля верси�
 Если кратко, то работа Git выглядит так: 
 Каждый разработчик скачивает свою локальную версию проекта с сервера Git при помощи команды git clone. Разработчики пишут свои изменения в код проекта. Если в результате разработки, программист создает новый файл с исходным кодом, то ему нужно выполнить команду git add. Чтобы поделиться своими изменениями, нужно выполнить команду git commit, которая сохраняет все изменения в локальную версию проекта, и выполнить команду git push, чтобы отправить свои изменения на сервер. Другие разработчики выполняют команду git pull чтобы скачать все изменения с сервера, в свою локальную версию.
 
-![image directory](https://www.earthdatascience.org/images/workshops/version-control/git-add-commit.png)
+![image_directory](https://user.oc-static.com/upload/2019/07/02/1562070846258_07.jpg)
 
 ## Начало работы
 
@@ -58,9 +58,27 @@ OS X — воспользуйтесь homebrew. После его установ
 git config --global user.email myEmail@example.com</pre>
 
 Теперь каждое наше действие будет отмечено именем и почтой. Таким образом, пользователи всегда будут в курсе, кто отвечает за какие изменения — это вносит порядок.
-
-<h1> Создание нового репозитория</h1>
-
+ 
 
 ## Лицензия
-Free 
+The MIT License (MIT)
+
+Copyright (c) 2016 Lucas Ross Perkins
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
