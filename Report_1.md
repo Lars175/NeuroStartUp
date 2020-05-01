@@ -50,6 +50,7 @@
 приложение OpenJDK запускается, конфликта с Java version 11.0.7 нет.
 
 ![альт] (https://prnt.sc/s97x4x"альт")
+![альт картинки](http://static.diy.ru/media/uploaded/bn/2012/12/19/valyanie-iz-shersti-novogodnyaya-yolka-svoimi-rukami.jpg "опциональный тайтл картинки")
 
 
 В качестве тестовых данных использовались данные: 
