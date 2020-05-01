@@ -1,4 +1,4 @@
-#Отчёт о тестировании OpenJDK11 for Windows 10 pro#
+# Отчёт о тестировании OpenJDK11 for Windows 10 pro
 
 
 Дата проведения тестирования: _27/04/2020 - 28/04/2020 гг._
@@ -17,7 +17,7 @@
 
 **Тест-кейс**
 
-#####Предварительные условия:####
+##### Предварительные условия:
 Установить [приложение](https://docs.google.com/document/d/1CzzJeI0DCYAg7UKJivOpLj5eIfEO5tE094zAtgUL9CE/edit?usp=sharing) OpenJDK 
 
 Скачать файл-[приложение](https://drive.google.com/open?id=1s5bjDBZAQsnPpF95f1ZFDR3Tyo8RncDA) KeyValidator.class
@@ -49,7 +49,7 @@
 
 приложение OpenJDK запускается, конфликта с Java version 11.0.7 нет.
 
-![](https://drive.google.com/open?id=1ppSfNxRy1FsYMvfq0HPNarK7G92keh6K)
+ ![] (https://drive.google.com/open?id=1ppSfNxRy1FsYMvfq0HPNarK7G92keh6K)
 
 
 В качестве тестовых данных использовались данные: 
@@ -74,7 +74,7 @@
 
 
 
-####Тестирование производилось в следующем окружении:####
+#### Тестирование производилось в следующем окружении:
 
 OS - Win 10 PRO ver. 1709, build 16299.1087
 ***
