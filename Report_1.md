@@ -49,7 +49,7 @@
 
 приложение OpenJDK запускается, конфликта с Java version 11.0.7 нет.
 
- ![] (https://drive.google.com/open?id=1ppSfNxRy1FsYMvfq0HPNarK7G92keh6K)
+ ![резулитат] (https://prnt.sc/s97x4x)
 
 
 В качестве тестовых данных использовались данные: 
